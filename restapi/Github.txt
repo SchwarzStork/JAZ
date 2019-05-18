@@ -1,1 +1,1 @@
-https://github.com/SchwarzStork/JAZ/tree/masterrest
+https://github.com/SchwarzStork/JAZ/tree/master/restapi
